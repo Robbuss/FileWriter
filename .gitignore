@@ -2,3 +2,4 @@ node_modules
 files/*
 !files/example.txt
 dist
+filewriter.code-workspace
